@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESauce.Playground", "ESauce.Playground\ESauce.Playground.csproj", "{01C658D0-A7D5-42F7-826B-4F956598C51D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESauce", "ESauce\ESauce.csproj", "{01FC2123-70EC-4BDC-B0A4-D76CB10841D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C658D0-A7D5-42F7-826B-4F956598C51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C658D0-A7D5-42F7-826B-4F956598C51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C658D0-A7D5-42F7-826B-4F956598C51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C658D0-A7D5-42F7-826B-4F956598C51D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01FC2123-70EC-4BDC-B0A4-D76CB10841D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FC2123-70EC-4BDC-B0A4-D76CB10841D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FC2123-70EC-4BDC-B0A4-D76CB10841D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FC2123-70EC-4BDC-B0A4-D76CB10841D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5511BD5-E022-481F-96E2-2F71E78A8977}
+	EndGlobalSection
+EndGlobal
